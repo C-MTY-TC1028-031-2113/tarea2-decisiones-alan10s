@@ -5,6 +5,7 @@ def main():
     a=int(input("Da el valor de a: "))
     b=int(input("Da el valor de b: "))
     c=int(input("Da el valor de c: "))
+    
     pass
 
 if __name__ == '__main__':
